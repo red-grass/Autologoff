@@ -12,6 +12,8 @@ Here is what the prompt message to the user would appear as:
 5 mins before logoff the program gives another message to user: 
 ![image](https://github.com/user-attachments/assets/a801daed-a8b0-4721-b99a-52eed85064e1)
 
+Final warning message than program forces logoff but keeps tabs and applications running: 
+![image](https://github.com/user-attachments/assets/49d0f4eb-9eae-475c-8676-015f602155b0)
 
 
 
