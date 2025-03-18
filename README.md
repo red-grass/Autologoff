@@ -1,5 +1,5 @@
 # Autologoff
-This program monitors the inactivity of a user for 1 hr. If user is inactive for 1 hr the program logs off user. 
+Autologoff is a Python utility that monitors user inactivity and automatically logs off the user after a specified period. This tool enhances system security by ensuring unattended sessions are securely terminated, preventing unauthorized access.
 
 ## Tech Stack
 * Python
@@ -19,7 +19,10 @@ This program monitors the inactivity of a user for 1 hr. If user is inactive for
 * Extend support to Mac/Linux.
 
 ## Installation 
-Use the package manager pip to install win32.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/red-grass/Autologoff.git
+2. Use the package manager pip to install win32.
 ![image](https://github.com/user-attachments/assets/fc5c92fd-2a29-4449-99ff-d953640b59f7)
 
 ## Overview 
