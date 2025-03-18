@@ -1,7 +1,24 @@
 # Autologoff
 This program monitors the inactivity of a user for 1 hr. If user is inactive for 1 hr the program logs off user. 
 
-# Installation 
+## Tech Stack
+* Python
+* Windows API
+
+## Key Features 
+* Tracks user activity.
+* Logs off users after one hour of inactivity.
+* Runs in the background as a system utility.
+
+## Challenges & Solutions
+* **Detecting Inactivity**: Used Windows API hooks to track keyboard/mouse input.
+* **Running as a Background Process**: Implemented a system tray application with PyQt.
+
+## Future Improvements
+* Add UI for configuration.
+* Extend support to Mac/Linux.
+
+## Installation 
 Use the package manager pip to install win32.
 ![image](https://github.com/user-attachments/assets/fc5c92fd-2a29-4449-99ff-d953640b59f7)
 
