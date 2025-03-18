@@ -4,6 +4,7 @@ Autologoff is a Python utility that monitors user inactivity and automatically l
 ## Tech Stack
 * Python
 * Windows API
+* Tkinter GUI
 
 ## Key Features 
 * Tracks user activity.
